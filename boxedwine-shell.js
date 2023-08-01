@@ -1,4 +1,4 @@
-        let ALLOW_PARAM_OVERRIDE_FROM_URL = true;
+.        let ALLOW_PARAM_OVERRIDE_FROM_URL = true;
         let SUPPRESS_WINEBOOT = true; //prevent wine from re-creating .wine directory
         let ROOT = "/root";
         let DLL_DIRECTORY = ROOT + "/lib/wine";
